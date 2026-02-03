@@ -1,5 +1,11 @@
 # blackroad-auth-manager
 
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/blackroad-auth-manager)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/blackroad-auth-manager)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
+# blackroad-auth-manager
+
 Part of the BlackRoad Product Suite - 100+ tools for modern development.
 
 ## Installation
